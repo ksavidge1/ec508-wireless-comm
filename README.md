@@ -1,2 +1,3 @@
-# ec508-wireless-comm
-EC508 course at Boston Univ.
+# EC508: Wireless Communication - Boston University
+
+Code written in MATLAB for some homework assignments
